@@ -1,2 +1,2 @@
-# Week1-Python-Basics
-My first Python begineer project
+# Week 1 Python Basics Project 
+This is my first python project
